@@ -5,10 +5,6 @@ active:
     image: https://conf.researchr.org/getProfileImage/eloisechristian/d57f17a2-1fe5-44bb-b62e-748f84eaddeb/small.jpg?1737203033000
   - name: Angel Pavlov Angelov
     image: https://conf.researchr.org/getProfileImage/angelpavlovangelov/15eb4cf1-1dda-4974-a86e-fe29eb709fe7/small.jpg?1733760295000
-  - name: Nicole Heinimann
-    image: https://conf.researchr.org/getProfileImage/nicoleheinimann/05e5f59c-af9b-43d6-a4dc-0edac3ab80ba/avatar.jpg
-  - name: Nicola Assolini
-    image: https://conf.researchr.org/getProfileImage/nicolaassolini/98016cbe-ba0a-4352-9297-31fc38c63b75/avatar.jpg
   - name: Eduardo Madeira
     image: https://conf.researchr.org/getProfileImage/eduardomadeira/42073539-cbf3-4609-b04b-0a63287afd82/small.jpg
   - name: Alexander Bai
@@ -19,6 +15,10 @@ active:
     image: https://conf.researchr.org/getProfileImage/janpaulramosdavila/156687da-3cdb-4157-b31e-636bb71b31dc/small.jpg
 
 emeritus:
+  - name: Nicole Heinimann
+    image: https://conf.researchr.org/getProfileImage/nicoleheinimann/05e5f59c-af9b-43d6-a4dc-0edac3ab80ba/avatar.jpg
+  - name: Nicola Assolini
+    image: https://conf.researchr.org/getProfileImage/nicolaassolini/98016cbe-ba0a-4352-9297-31fc38c63b75/avatar.jpg
   - name: Ethan Range
     image: https://conf.researchr.org/getProfileImage/ethanrange/a82e09a2-116a-4794-a499-13496f915d0a/small.jpg
   - name: Guilherme Espada
